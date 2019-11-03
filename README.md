@@ -8,9 +8,15 @@ Over the course of seven days, students will produce seven discrete prototypes. 
 answer a question the student’s assumptions about the project, their research, and proposal. Each will be
 started and finished in a single day.
 
+For each prototype, answer all four of the below questions: 
+
+1 -What did I make?
+2 -How did I make it? 
+3 -What did making it help me understand? 
+4 -How might this new understanding inform my thesis project moving forward? 
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Day 1
 
