@@ -1,9 +1,8 @@
-## Golpar Jalali Thesis 1
+## 7-in-7 Prototypes
 
-
-### 7-in-7 Prototypes
 
 ```markdown
+
 Over the course of seven days, students will produce seven discrete prototypes. Each prototype should pose and
 answer a question the student’s assumptions about the project, their research, and proposal. Each will be
 started and finished in a single day.
