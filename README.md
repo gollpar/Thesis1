@@ -1,4 +1,4 @@
-## 7-in-7 Prototypes
+# 7-in-7 Prototypes
 
 
 ```markdown
@@ -29,7 +29,7 @@ For each prototype, answer all four of the below questions:
 
 4.
 
-### DAY 2
+## DAY 2
 #### An app
 
 1. This app is used by people who do not meditate because of the lack of discipline, this app blocks the accessibility to all user’s social media unless he/she uses the meditation app first (every day and you cannot turn it off)
@@ -40,7 +40,7 @@ For each prototype, answer all four of the below questions:
 
 4. 
 
-### DAY 3
+## DAY 3
 #### An App
 
 1. My goeal was to make a community, support group that helps users gain motivation. You upload your stitching piece every day and get points/rewards and level up.
@@ -64,7 +64,7 @@ For each prototype, answer all four of the below questions:
 
 
 
-### DAY 5
+## DAY 5
 #### A crafting activity (Goal-oriented)
 
 1. This activity is designed for goal-oriented people who like to make things for a purpose.
@@ -76,7 +76,7 @@ For each prototype, answer all four of the below questions:
 4.
 
 
-### DAY 6
+## DAY 6
 #### A digital Coloring book
 
 1. An app. This is a coloring app made like a big puzzle. Each day the user color one piece and in the end, she/he can see the final colored result in the big picture.
@@ -88,7 +88,7 @@ For each prototype, answer all four of the below questions:
 4.
 
 
-### DAY 7
+## DAY 7
 #### ML
 
 1. A new pattern generate with machine learning every day, so the user does not have to spend time on the pattern he/she wants to stitch on.
