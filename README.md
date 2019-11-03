@@ -34,7 +34,7 @@ For each prototype, answer all four of the below questions:
 
 1. This app is used by people who do not meditate because of the lack of discipline, this app blocks the accessibility to all user’s social media unless he/she uses the meditation app first (every day and you cannot turn it off)
 
-2. I used Adobe UX and illustrator. T
+2. I used Adobe UX and illustrator. 
 
 3. I wanted to do an experiment with an entirely different medium. This project does not include crafting. Through my research, I figured out that one of the reasons that one doesn’t meditate enough it laziness and the lack of discipline. I wanted to see if this project could be a response to this problem
 
@@ -54,14 +54,52 @@ For each prototype, answer all four of the below questions:
 ### DAY 4
 #### A crafting activity (Not Goal-oriented)
 
+1. This activity is designed for people who do not like to make things for a purpose.
+
+2. Using stitching, embroidery, e-textile.
+
+3. 
+
+4.
+
+
 
 ### DAY 5
 #### A crafting activity (Goal-oriented)
+
+1. This activity is designed for goal-oriented people who like to make things for a purpose.
+
+2. Using stitching, embroidery, e-textile.
+
+3.
+
+4.
 
 
 ### DAY 6
 #### A digital Coloring book
 
+1. An app. This is a coloring app made like a big puzzle. Each day the user color one piece and in the end, she/he can see the final colored result in the big picture.
+
+2. An iPad, using a pencil.
+
+3. This prototype is an iteration of my coloring book experiment that I did last semester (asked users to color while reading their brainwaves). I wanted to see if I can emerge the normal coloring activity from an iPad in a digital form.
+
+4.
+
 
 ### DAY 7
-#### 1.ML
+#### ML
+
+1. A new pattern generate with machine learning every day, so the user does not have to spend time on the pattern he/she wants to stitch on.
+
+2. Using machine learning, fabric , a needle, and embroidery threads. 
+
+3. 
+
+4. 
+
+
+### EXTRAS
+
+#### A jewelry collection about mindfullness.
