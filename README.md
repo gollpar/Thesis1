@@ -4,7 +4,7 @@
 ```markdown
 
 Over the course of seven days, students will produce seven discrete prototypes. Each prototype should pose and
-answer a question the student’s assumptions about the project, their research, and proposal. Each will be
+answer a question the student’s assumptions about the project, their research, and the proposal. Each will be
 started and finished in a single day.
 
 For each prototype, answer all four of the below questions: 
@@ -20,7 +20,7 @@ For each prototype, answer all four of the below questions:
 ### DAY 1
 
 #### A pillow
- 
+ 
 1. When you meditate with the app, the pillow -placed on your bed- glows. And then it gently fades. Goal: motivation, reminder.
 
 2. I made a pillow using e-textile and LEDs.
@@ -43,9 +43,9 @@ For each prototype, answer all four of the below questions:
 ## DAY 3
 #### An App
 
-1. My goeal was to make a community, support group that helps users gain motivation. You upload your stitching piece every day and get points/rewards and level up.
+1. My goal was to make a community, support group that helps users gain motivation. You upload your stitching piece every day and get points/rewards and level up.
 
-2. I used adobe XD and illustrator. 
+2. I used Adobe XD and illustrator. 
 
 3. I wanted to explore the effects of having a supportive community in the meditation process. I call it social media for meditation. I wanted to see if I can come up with a platform that motivates, encourages and give rewards. 
 
@@ -91,9 +91,9 @@ For each prototype, answer all four of the below questions:
 ## DAY 7
 #### ML
 
-1. A new pattern generate with machine learning every day, so the user does not have to spend time on the pattern he/she wants to stitch on.
+1. A new pattern generated with machine learning every day, so the user does not have to spend time on the pattern he/she wants to stitch on.
 
-2. Using machine learning, fabric , a needle, and embroidery threads. 
+2. Using machine learning, fabric, a needle, and embroidery threads. 
 
 3. 
 
@@ -102,4 +102,9 @@ For each prototype, answer all four of the below questions:
 
 ### EXTRAS
 
-#### A jewelry collection about mindfullness.
+#### A jewelry collection about mindfulness.
+
+-- 
+Golpar(Fatemeh) Jalali
+MFA D+T student at Parsons School of DesignNew York City
+https://www.gollpar.com/
